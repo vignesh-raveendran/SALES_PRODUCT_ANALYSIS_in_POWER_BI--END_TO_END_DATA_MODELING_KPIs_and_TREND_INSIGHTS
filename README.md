@@ -33,12 +33,14 @@ This project leveraged **Microsoft Power BI** to build a **dynamic, interactive 
 
 ---
 ## 🖼 Screenshots / Dashboard Previews
-![Overview Page](link-to-overview.png)  
-![Top/Bottom Products](link-to-top-bottom.png)  
-![Dynamic Comparison](link-to-comparison.png)  
-![Sales by Geography](link-to-map.png)  
+<img width="1659" height="859" alt="Screenshot 2026-02-19 201557" src="https://github.com/user-attachments/assets/43eb4c63-9a5d-48be-bc45-54b7067e4456" />
 
-> Replace `link-to-*.png` with your actual screenshot URLs or GIFs for visual appeal
+
+
+
+
+
+
 ---
 
 ## 🔄 Project Flow Summary
