@@ -35,10 +35,8 @@ This project leveraged **Microsoft Power BI** to build a **dynamic, interactive 
 ## 🖼 Screenshots / Dashboard Previews
 <img width="1659" height="859" alt="Screenshot 2026-02-19 201557" src="https://github.com/user-attachments/assets/43eb4c63-9a5d-48be-bc45-54b7067e4456" />
 
-
-
-
-
+<img width="1529" height="844" alt="Screenshot 2026-02-19 202629" src="https://github.com/user-attachments/assets/fb5421f0-af5a-4166-b8e7-c9919b1e3edc" />
+<img width="1321" height="728" alt="Screenshot 2026-02-19 202834" src="https://github.com/user-attachments/assets/20fdc8ca-2860-4ee1-afd6-08434de59644" />
 
 
 ---
