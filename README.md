@@ -197,7 +197,7 @@ The end-to-end workflow for **Electro Hub** analytics project is as follows:
 
 ## ✍️ Author
 
-**[Vignesh_Raveendran]**  
+**Vignesh_Raveendran**  
 *Data Engineer / Data Analyst*  
 
 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
