@@ -110,48 +110,64 @@ The end-to-end workflow for **Electro Hub** analytics project is as follows:
 - **Task:** Identify top and bottom products by Sales, Profit, Quantity  
 - **Action:** Created **Stacked Bar Charts** with Top N filter applied to Product Name  
 - **Result:** Highlighted **iPhone 14** & **MacBook Air** as top performers, low-margin items like toothpaste as bottom  
+<img width="1529" height="844" alt="Screenshot 2026-02-19 202629" src="https://github.com/user-attachments/assets/54396356-5d44-4241-8198-91457e7ea676" />
 
 ### 2️⃣ Sales Trends Over Time
 - **Situation:** Seasonality not understood, impacting inventory planning  
 - **Task:** Visualize daily, monthly, quarterly, and yearly trends  
 - **Action:** **Line Chart** with date hierarchy and drill-down enabled  
-- **Result:** Peak sales observed during **Diwali** & **New Year**, guiding inventory stocking  
+- **Result:** Peak sales observed during **Diwali** & **New Year**, guiding inventory stocking
+ <img width="1122" height="637" alt="Screenshot 2026-02-19 203110" src="https://github.com/user-attachments/assets/0bf7d659-d55d-438a-a697-5a5f88fdf297" />
+ 
 
 ### 3️⃣ Sales vs Profit Correlation
 - **Situation:** Relationship between sales volume and profit margin unclear  
 - **Task:** Analyze correlation between Sales & Profit  
 - **Action:** **Scatter Plot** with Profit on X-axis, Net Sales on Y-axis  
-- **Result:** Strong positive correlation confirmed **consistent margin stability**  
+- **Result:** Strong positive correlation confirmed **consistent margin stability**
+ <img width="1146" height="626" alt="Screenshot 2026-02-19 203150" src="https://github.com/user-attachments/assets/2e4c1c0b-e45a-4e89-91dd-dab7262e0a01" />
 
+ 
 ### 4️⃣ Dynamic Period Comparison
 - **Situation:** Users required A/B comparison of any two periods  
 - **Task:** Compare Sales, Profit, and Quantity dynamically  
 - **Action:** Implemented **dual slicers** + inactive relationship + `USERELATIONSHIP` DAX  
-- **Result:** Enabled **precise period comparison**, aiding campaign evaluation  
+- **Result:** Enabled **precise period comparison**, aiding campaign evaluation
+ <img width="1294" height="742" alt="Screenshot 2026-02-19 203236" src="https://github.com/user-attachments/assets/987cea03-0100-4fa5-b303-0cd64a086b7c" />
+
+  
 
 ### 5️⃣ Average Discount by Category
 - **Situation:** Marketing lacked insights on discount effectiveness  
 - **Task:** Compute average discount per promotion category  
 - **Action:** **Bar Chart**: Promotion Name vs Average Discount %  
-- **Result:** "Weekend Flash Sales" & "Clearance Sales" had highest discounts (20–50%)  
+- **Result:** "Weekend Flash Sales" & "Clearance Sales" had highest discounts (20–50%)
+  <img width="1134" height="635" alt="Screenshot 2026-02-19 203312" src="https://github.com/user-attachments/assets/5e98741c-f1c1-44c7-918c-69b01e0beb9e" />
+
+
 
 ### 6️⃣ Total Number of Orders
 - **Situation:** Volume tracking was missing  
 - **Task:** Count total orders  
 - **Action:** **Card Visual** using `DISTINCTCOUNT(Order ID)`  
-- **Result:** **3,510 unique orders** processed  
+- **Result:** **3,510 unique orders** processed
+  
 
 ### 7️⃣ Detailed Transaction View
 - **Situation:** Auditing required for all order-level details  
 - **Task:** Display Sales, Profit, Discount, Customer, Product, Promotion, Date  
 - **Action:** **Table Visual** with multiple slicers for dimensions  
-- **Result:** Fully interactive, drillable table enabling granular analysis  
+- **Result:** Fully interactive, drillable table enabling granular analysis
+  <img width="1321" height="728" alt="Screenshot 2026-02-19 202834" src="https://github.com/user-attachments/assets/52a9d6ea-a488-41de-9122-f8fe038b7c48" />
+
 
 ### 8️⃣ Sales by Geography
 - **Situation:** Logistics & marketing required city-level insights  
 - **Task:** Show sales distribution across cities  
 - **Action:** **Map Visual** with bubble size based on Net Sales  
 - **Result:** **Delhi, Mumbai, and Bangalore** identified as top revenue hubs
+  <img width="1130" height="629" alt="Screenshot 2026-02-19 203412" src="https://github.com/user-attachments/assets/22ce5ff5-2be2-4a5a-9f15-c1cc8eccb02d" />
+
 
 ---
 
@@ -177,7 +193,6 @@ The end-to-end workflow for **Electro Hub** analytics project is as follows:
 - Add **profit margin visualization** per product category  
 - Include **customer segmentation analysis** for targeted marketing  
 
----
 ---
 
 ## ✍️ Author
